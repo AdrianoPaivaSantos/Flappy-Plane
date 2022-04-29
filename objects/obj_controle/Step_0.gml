@@ -1,9 +1,9 @@
 /// @description Insert description here
 // Ganhando pontos
-pontos = pontos+0.1* global.level;
+global.pontos = global.pontos+0.1* global.level;
 
 //Ganahndo level se os pontos forem mairo que 100
-if(pontos>proximo_level)
+if(global.pontos>proximo_level)
 {
 	global.level++;
 	audio_play_sound(snd_level_up,1,false);
