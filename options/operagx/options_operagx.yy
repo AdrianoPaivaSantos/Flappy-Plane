@@ -17,11 +17,11 @@
   "option_operagx_mod_team_id": "",
   "option_operagx_mod_team_name": "",
   "option_operagx_mod_version": "1.0.0.0",
-  "option_operagx_next_version": "1.0.0.12",
+  "option_operagx_next_version": "1.0.0.13",
   "option_operagx_publicShareUrl": "https://gx.games/games/dgjyw3/flappy-plane-aula-game-maker-studio/",
   "option_operagx_scale": 0,
   "option_operagx_team_id": "783b7f0a-abf5-4c70-b9d6-1e38991e8c3f",
   "option_operagx_team_name": "AdrianoPaiva studio",
   "option_operagx_texture_page": "2048x2048",
-  "option_operagx_version": "1.0.0.11",
+  "option_operagx_version": "1.0.0.12",
 }
